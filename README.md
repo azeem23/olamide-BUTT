@@ -1,6 +1,6 @@
 # Olamide Bubblebutt - A Special Message
 
-This is a special webpage dedicated to **Olamide**! When you click on the "Olamide Bubblebutt" message, it redirects you to a URL (which you can customize).
+This is a special webpage dedicated to **Olamide**!
 
 ## Purpose
 The webpage was created to send a fun, loving message to Olamide:  
