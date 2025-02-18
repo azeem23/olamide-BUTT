@@ -6,14 +6,13 @@ This is a special webpage dedicated to **Olamide**! When you click on the "Olami
 The webpage was created to send a fun, loving message to Olamide:  
 **"Olamide Bubblebutt, You Are a Wonderful Soul ❤️"**
 
-## How to Use
-1. Clone or download this repository.
-2. Open `index.html` in a web browser to view the message.
-3. Modify the link in the `index.html` file to any website you'd like.
+## about HER 
+1.   Getting to know her 
+2. . Idk, she get irrtated easily 
+3.  midebuttwith small butt.
 
 ## Hosted Version
 You can access the live version of the website at:  
-[https://your-username.github.io/repository-name/](https://your-username.github.io/repository-name/)
-
+dm me
 ### Credits
 - Made with ❤️ by [jimmyjatty on snapchat]
